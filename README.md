@@ -149,8 +149,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Tailwind CSS](https://tailwindcss.com/) for styling
 - [Next.js](https://nextjs.org/) for the framework
 
-## 📧 Contact
 
-Your Name - [@Prasenjit](https://twitter.com/Star_Knight12)
 
-Project Link: [Try it here](https://prasen.dev)
