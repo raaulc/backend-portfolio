@@ -137,9 +137,6 @@ This website is PWA-ready with:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=StarKnightt/prasendev&type=Date)](https://www.star-history.com/#StarKnightt/prasendev&Date)
 
 
 ## 🙏 Acknowledgments
