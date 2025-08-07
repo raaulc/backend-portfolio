@@ -253,7 +253,7 @@ export const DATA = {
       title: "Microservices Architecture",
       description: "Building Scalable Backend Systems",
       thumbnail: "/placeholder-product.jpg",
-      url: "https://www.youtube.com/watch?v=K3j1FxQu1Js&list=PLb1Ovsa8zsbUMrH0stNeGKAG5fPFL5MbM",
+      url: "https://www.youtube.com/watch?v=0Mzft2Kcev0",
       date: "2024-01-01"
     }
   ],
