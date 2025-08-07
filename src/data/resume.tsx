@@ -12,9 +12,8 @@ export const DATA = {
   locationLink: "https://www.google.com/maps/place/Leeds,+UK",
   description:
     "Backend Engineer | Java | Spring Boot | Kafka | Redis | High-Performance APIs | 14+ Years Tech Experience | Building Scalable Microservices.",
-  summary:
-    "Backend Engineer with over 14 years of experience in building high-performance, scalable systems. Specialized in Java ecosystem, distributed systems, and real-time data processing. Proven track record of developing microservices that handle high-concurrency workloads, implementing event-driven architectures with Kafka, and optimizing database performance with Redis and Cassandra. Experienced in containerized deployments with Kubernetes and passionate about writing testable, maintainable code that powers millions of transactions.",
-  avatarUrl: "/favicons/profile-pic.jpeg",
+    summary: "Engineer with 14+ years of experience across mobile and backend systems, now focused on building scalable, high-performance backend services using Java, Spring Boot, Kafka, and Redis. Strong foundation in distributed systems, real-time processing, and end-to-end product delivery — with a passion for clean, maintainable code that powers great customer experiences.",
+    avatarUrl: "/favicons/profile-pic.jpeg",
   skills: [
     "Java 8+",
     "Spring Boot",
